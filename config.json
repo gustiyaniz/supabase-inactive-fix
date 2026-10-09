@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Database1",
+    "supabase_url": "https://sizhuilxymhtrzpqhuxu.supabase.co",
+    "supabase_key_env": "sb_publishable_Bcx2SFLNiL0tQc0uAmBvHg_4hJw_Y-D",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database2",
+    "supabase_url": "owzgnlhlngebjnqettzw.supabase.co",
+    "supabase_key_env": "sb_publishable_kRcKlj4T_QFP-P6R-Cjbew_4_Jka2Uq",
+    "table_name": "KeepAlive"
+  }
+]
