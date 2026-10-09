@@ -7,7 +7,7 @@
   },
   {
     "name": "Database2",
-    "supabase_url": "owzgnlhlngebjnqettzw.supabase.co",
+    "supabase_url": "https://owzgnlhlngebjnqettzw.supabase.co",
     "supabase_key_env": "sb_publishable_kRcKlj4T_QFP-P6R-Cjbew_4_Jka2Uq",
     "table_name": "KeepAlive"
   }
